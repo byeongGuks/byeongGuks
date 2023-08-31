@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on lab intern in DMIS lab (Data Mining and Information Systems Lab)
+- <!--🔭 I’m currently working on lab intern in DMIS lab (Data Mining and Information Systems Lab) -->
