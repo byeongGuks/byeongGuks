@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently in
   - Korea University, Major in Computer Science & Engineering.
-  - Undergraduated interin in AGL Lab, Korea Univ, Professor Sungwoong Kim
+  # - intern in LK Lab, Korea Advanced Institute of Science and Technology, Professor Minjoon Seo
     
 - 🌱 I’m currently interested in
   - Multi modal generation model
