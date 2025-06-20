@@ -1,12 +1,13 @@
 ### Hi, I'm Byeongguk Jeon👋
 
 - 🔭 I’m currently in
-  - Korea University, Major in Computer Science & Engineering.
+  - Korea Advanced Institute of Science and Technology, Kim Jaechul Graduate School of AI, advised by Minjoon Seo   
+ <!-- - Korea University, Major in Computer Science & Engineering. -->
   <!-- - intern in LK Lab, Korea Advanced Institute of Science and Technology, Professor Minjoon Seo -->
     
 - 🌱 I’m currently interested in
-  - Multi modal generation model
-  - Large Language model
+  - Robot Foundation Models
+  - Large Language models
 
 <!--
 **byeongGuks/byeongGuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
